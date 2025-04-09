@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pkl
+.env
+*.csv
+*.xlsx
+*.json
+*.db
+.env/
